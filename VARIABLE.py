@@ -14,3 +14,5 @@ print(f"In my class there are {students} students.")
 # Float
 price=10.99
 print("The price of thi watch is {price}$")
+distance=5.5
+print(f"I ran {distance} Kilometers today.")
