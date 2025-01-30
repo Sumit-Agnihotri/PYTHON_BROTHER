@@ -10,3 +10,7 @@ age=21
 print(f"I am {age} years old")
 students=100
 print(f"In my class there are {students} students.")
+
+# Float
+price=10.99
+print("The price of thi watch is {price}$")
