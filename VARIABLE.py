@@ -8,3 +8,5 @@ print(f"Hello {first_name}")
 # Integers
 age=21
 print(f"I am {age} years old")
+students=100
+print(f"In my class there are {students} students.")
