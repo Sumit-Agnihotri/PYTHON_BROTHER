@@ -16,3 +16,5 @@ price=10.99
 print("The price of thi watch is {price}$")
 distance=5.5
 print(f"I ran {distance} Kilometers today.")
+
+# Boolean
