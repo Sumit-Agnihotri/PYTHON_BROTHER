@@ -18,3 +18,5 @@ distance=5.5
 print(f"I ran {distance} Kilometers today.")
 
 # Boolean
+is_student=True
+print(f"Are you a student? {is_student}")
